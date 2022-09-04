@@ -6,7 +6,7 @@ Using Target and change apartment location to 3 alta area
 - You need to check the config if you didnt use the amir expert spawn
 
 # Preview
-https://streamable.com/182f54
+https://streamable.com/182f54 This Preview are old
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
