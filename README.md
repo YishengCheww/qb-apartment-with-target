@@ -3,6 +3,7 @@ Using Target and change apartment location to 3 alta area
 
 # Note
 You need to self translate to english cause english are not my main launguage
+You need to check the config if you didnt use the amir expert spawn
 
 # Preview
 https://streamable.com/182f54
