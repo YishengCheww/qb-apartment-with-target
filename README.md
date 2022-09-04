@@ -18,4 +18,4 @@ https://streamable.com/182f54
 - [qb-target](https://github.com/qbcore-framework/qb-target) - For Target
  
  # Optional
- You can using my [qb-interior](https://github.com/qbcore-framework/qb-interior) For better experience.
+ You can using my [qb-interior](https://github.com/YishengCheww/qb-interior) For better experience.
